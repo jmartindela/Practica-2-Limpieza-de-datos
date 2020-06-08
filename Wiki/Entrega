@@ -1,0 +1,10 @@
+Componentes del grupo: Alfonso Jimménez Hernández y Jorge Martín de la Calle.
+
+Descripción de los distintos ficheros y directorios:
+
+  Carpeta csv: Se encuentra el csv original utilizado en la práctica winequality-red.csv y el csv resultante de la limpieza red_wine_clean.csv.
+  Carpeta pdf: Se encuentra el documento PDF donde se ha llevado a cabo la resolución de todas las preguntas de la práctica 2.
+                Adicionalmente se adjunta el documento en formato HTML.
+  Carpeta src: Se encuentran fichero que contienen el notebook de python relacionado con la práctica 2.
+  
+Enlace el github: 
